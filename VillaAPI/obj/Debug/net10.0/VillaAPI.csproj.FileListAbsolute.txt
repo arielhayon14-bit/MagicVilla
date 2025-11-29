@@ -34,3 +34,4 @@
 /Users/arielhayon/MagicVilla/VillaAPI/obj/Debug/net10.0/VillaAPI.pdb
 /Users/arielhayon/MagicVilla/VillaAPI/obj/Debug/net10.0/VillaAPI.genruntimeconfig.cache
 /Users/arielhayon/MagicVilla/VillaAPI/obj/Debug/net10.0/ref/VillaAPI.dll
+/Users/arielhayon/MagicVilla/VillaAPI/obj/Debug/net10.0/VillaAPI.sourcelink.json
