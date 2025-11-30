@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "QnX2Z4QWyr8=",
+  "dgSpecHash": "6FboANEGNNA=",
   "success": true,
   "projectFilePath": "/Users/arielhayon/MagicVilla/VillaAPI/VillaAPI.csproj",
   "expectedPackageFiles": [
-    "/Users/arielhayon/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
     "/Users/arielhayon/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
     "/Users/arielhayon/.nuget/packages/microsoft.openapi/2.3.0/microsoft.openapi.2.3.0.nupkg.sha512",
     "/Users/arielhayon/.nuget/packages/swashbuckle.aspnetcore/10.0.1/swashbuckle.aspnetcore.10.0.1.nupkg.sha512",

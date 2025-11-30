@@ -6,7 +6,6 @@
 /Users/arielhayon/MagicVilla/VillaAPI/bin/Debug/net10.0/VillaAPI.runtimeconfig.json
 /Users/arielhayon/MagicVilla/VillaAPI/bin/Debug/net10.0/VillaAPI.dll
 /Users/arielhayon/MagicVilla/VillaAPI/bin/Debug/net10.0/VillaAPI.pdb
-/Users/arielhayon/MagicVilla/VillaAPI/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/arielhayon/MagicVilla/VillaAPI/bin/Debug/net10.0/Microsoft.OpenApi.dll
 /Users/arielhayon/MagicVilla/VillaAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/arielhayon/MagicVilla/VillaAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
