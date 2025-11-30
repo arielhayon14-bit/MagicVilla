@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VillaAPI",
+    "\\VillaAPI\\Controllers",
+    "\\VillaAPI\\Data",
+    "\\VillaAPI\\Models",
+    "\\VillaAPI\\Models\\DTO"
+  ],
+  "SelectedNode": "\\VillaAPI\\Data\\VillaStore.cs",
+  "PreviewInSolutionExplorer": false
+}
