@@ -70,3 +70,7 @@ E:\Learn\MagicVilla\villaapi\obj\Debug\net10.0\swae.build.ex.cache
 E:\Learn\MagicVilla\villaapi\obj\Debug\net10.0\VillaAPI.csproj.Up2Date
 E:\Learn\MagicVilla\villaapi\obj\Debug\net10.0\VillaAPI.genruntimeconfig.cache
 E:\Learn\MagicVilla\villaapi\obj\Debug\net10.0\ref\VillaAPI.dll
+E:\Learn\MagicVilla\villaapi\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Learn\MagicVilla\villaapi\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Learn\MagicVilla\villaapi\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\Learn\MagicVilla\villaapi\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
