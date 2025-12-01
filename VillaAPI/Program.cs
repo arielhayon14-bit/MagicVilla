@@ -6,7 +6,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddControllers(option =>
 {
-    option.ReturnHttpNotAcceptable = true;
+    //option.ReturnHttpNotAcceptable = true;
 }).AddNewtonsoftJson().AddXmlDataContractSerializerFormatters();
 
 var app = builder.Build();
