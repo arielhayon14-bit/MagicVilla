@@ -251,3 +251,5 @@ E:\Learn\MagicVilla\VillaAPI\obj\Debug\net10.0\refint\VillaAPI.dll
 E:\Learn\MagicVilla\VillaAPI\obj\Debug\net10.0\VillaAPI.pdb
 E:\Learn\MagicVilla\VillaAPI\obj\Debug\net10.0\VillaAPI.genruntimeconfig.cache
 E:\Learn\MagicVilla\VillaAPI\obj\Debug\net10.0\ref\VillaAPI.dll
+E:\Learn\MagicVilla\VillaAPI\bin\Debug\net10.0\AutoMapper.dll
+E:\Learn\MagicVilla\VillaAPI\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

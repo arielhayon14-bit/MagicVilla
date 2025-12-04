@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|solutionrelative:controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|e:\\learn\\magicvilla\\villaapi\\models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|solutionrelative:models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|e:\\learn\\magicvilla\\villaapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|solutionrelative:mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|e:\\learn\\magicvilla\\villaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|e:\\learn\\magicvilla\\villaapi\\models\\dto\\villaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|solutionrelative:models\\dto\\villaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|e:\\learn\\magicvilla\\villaapi\\models\\dto\\villacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|solutionrelative:models\\dto\\villacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|e:\\learn\\magicvilla\\villaapi\\models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|solutionrelative:models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15124386-0020-8B15-8F8C-008CC7B1BDA4}|VillaAPI.csproj|e:\\learn\\magicvilla\\villaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +58,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "E:\\Learn\\MagicVilla\\VillaAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MappingConfig.cs",
+              "ToolTip": "E:\\Learn\\MagicVilla\\VillaAPI\\MappingConfig.cs",
+              "RelativeToolTip": "MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:04:29.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VillaCreateDTO.cs",
+              "DocumentMoniker": "E:\\Learn\\MagicVilla\\VillaAPI\\Models\\DTO\\VillaCreateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\VillaCreateDTO.cs",
+              "ToolTip": "E:\\Learn\\MagicVilla\\VillaAPI\\Models\\DTO\\VillaCreateDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\VillaCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:47:05.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VillaUpdateDTO.cs",
+              "DocumentMoniker": "E:\\Learn\\MagicVilla\\VillaAPI\\Models\\DTO\\VillaUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\VillaUpdateDTO.cs",
+              "ToolTip": "E:\\Learn\\MagicVilla\\VillaAPI\\Models\\DTO\\VillaUpdateDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\VillaUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:46:09.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "VillaDTO.cs",
               "DocumentMoniker": "E:\\Learn\\MagicVilla\\VillaAPI\\Models\\DTO\\VillaDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTO\\VillaDTO.cs",
@@ -63,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Villa.cs",
               "DocumentMoniker": "E:\\Learn\\MagicVilla\\VillaAPI\\Models\\Villa.cs",
               "RelativeDocumentMoniker": "Models\\Villa.cs",
@@ -82,7 +133,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Learn\\MagicVilla\\VillaAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T09:12:02.637Z",
               "EditorCaption": ""
@@ -95,14 +146,14 @@
               "RelativeDocumentMoniker": "Controllers\\VillaAPIController.cs",
               "ToolTip": "E:\\Learn\\MagicVilla\\VillaAPI\\Controllers\\VillaAPIController.cs",
               "RelativeToolTip": "Controllers\\VillaAPIController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAcwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwIgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T09:17:25.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "E:\\Learn\\MagicVilla\\VillaAPI\\Data\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
@@ -115,33 +166,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "20251203143304_SeedVillaTable.cs",
               "DocumentMoniker": "E:\\Learn\\MagicVilla\\VillaAPI\\Migrations\\20251203143304_SeedVillaTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20251203143304_SeedVillaTable.cs",
               "ToolTip": "E:\\Learn\\MagicVilla\\VillaAPI\\Migrations\\20251203143304_SeedVillaTable.cs",
               "RelativeToolTip": "Migrations\\20251203143304_SeedVillaTable.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T14:33:04.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T14:33:04.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "20251203143134_SeedVillaTableWithDate.cs",
               "DocumentMoniker": "E:\\Learn\\MagicVilla\\VillaAPI\\Migrations\\20251203143134_SeedVillaTableWithDate.cs",
               "RelativeDocumentMoniker": "Migrations\\20251203143134_SeedVillaTableWithDate.cs",
               "ToolTip": "E:\\Learn\\MagicVilla\\VillaAPI\\Migrations\\20251203143134_SeedVillaTableWithDate.cs",
               "RelativeToolTip": "Migrations\\20251203143134_SeedVillaTableWithDate.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowBsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T14:31:34.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T14:31:34.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ApplicationDBContextModelSnapshot.cs",
               "DocumentMoniker": "E:\\Learn\\MagicVilla\\VillaAPI\\Migrations\\ApplicationDBContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDBContextModelSnapshot.cs",
@@ -154,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Learn\\MagicVilla\\VillaAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",

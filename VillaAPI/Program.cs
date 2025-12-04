@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using VillaAPI;
 using VillaAPI.Data;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddSwaggerGen();
+builder.Services.AddAutoMapper(typeof(MappingConfig));
 builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddDbContext <ApplicationDBContext>(options =>
