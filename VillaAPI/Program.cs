@@ -1,12 +1,15 @@
 using Microsoft.EntityFrameworkCore;
 using VillaAPI;
 using VillaAPI.Data;
+using VillaAPI.Repository;
+using VillaAPI.Repository.IRepository;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IVillaRepository, VillaRepository>();
 builder.Services.AddAutoMapper(typeof(MappingConfig));
 builder.Services.AddEndpointsApiExplorer();
 
